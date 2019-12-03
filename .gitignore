@@ -1,0 +1,14 @@
+.local
+.dev
+.env
+node_modules/
+build/
+.next/
+*.log
+*.sh
+.vs
+.vscode
+.editorconfig
+.ds_store
+.tmux.conf
+dist/*
